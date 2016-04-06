@@ -1,0 +1,30 @@
+{
+  "name": "lean-util",
+  "version": "0.0.1",
+  "description": "java like data structure library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asnowwolf/lean-util.git"
+  },
+  "keywords": [
+    "data structure",
+    "library",
+    "java",
+    "stl"
+  ],
+  "author": "Zhicheng Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asnowwolf/lean-util/issues"
+  },
+  "homepage": "https://github.com/asnowwolf/lean-util#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "tslint": "^3.7.1"
+  }
+}
